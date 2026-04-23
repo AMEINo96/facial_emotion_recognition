@@ -8,12 +8,15 @@ venv/
 ENV/
 
 # PyTorch/ML
+data/
 *.pth
 *.pt
 *.onnx
 *.whl
 
 # Report/Media
+Facial_Emotion_Recognition_Report.docx
+*.docx
 training_history_pth.png
 confusion_matrix.png
 
